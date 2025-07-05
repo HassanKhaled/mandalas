@@ -21,9 +21,13 @@
 
             transform-origin: center;
             animation: mymove 2s infinite;
+            animation-direction: alternate;
         }
 
         @keyframes mymove {
+            0% {
+                transform: rotate(0deg);
+            }
             25% {
                 transform: rotate(90deg);
             }
@@ -48,6 +52,7 @@
         <h1>Welcome to My Website</h1>
     </main>
     <img class="basic" id="mand_1" src="mand_2.svg" />
+    <img class="basic" id="mand_1" src="mand_3.svg" />
     <script src="index.js"></script>
 </body>
 
