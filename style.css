@@ -14,7 +14,8 @@
 .basic {
     width: 20%;
     height: 20%;
-
+border: solid 1px blue;
+border-radius:  50%;
 
 }
 
