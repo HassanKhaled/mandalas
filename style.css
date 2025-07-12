@@ -14,9 +14,9 @@
 .basic {
     width: 20%;
     height: 20%;
-    border: 20px solid transparent;
-    padding: 10px;
-    border-image: url('mands/border_1.png') 20 round;
+    border: 100px solid transparent;
+    padding: 20px;
+    border-image: url('mands/border_2.svg') 20% round;
 
 }
 
