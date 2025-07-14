@@ -14,10 +14,15 @@
 .basic {
     width: 20%;
     height: 20%;
+
+
+}
+
+.border-1{
+
     border: 100px solid transparent;
     padding: 20px;
     border-image: url('mands/border_2.svg') 20% round;
-
 }
 
 .move {
