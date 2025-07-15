@@ -49,6 +49,11 @@
     animation-direction: reverse;
 }
 
+.move-reverse:hover {
+
+    animation: none;
+}
+
 @keyframes move {
     0% {
         transform: rotate(0deg);
