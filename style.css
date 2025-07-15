@@ -22,7 +22,7 @@
 
     border: 100px solid transparent;
     padding: 20px;
-    border-image: url('mands/border_2.svg') 20% round;
+    border-image: url('borders/border_2.svg') 20% round;
 }
 
 .move {
