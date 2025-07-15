@@ -33,6 +33,13 @@
 
 }
 
+.move:hover {
+
+   
+    animation: none;
+    
+
+}
 
 .move-reverse {
 
