@@ -36,6 +36,14 @@
     border-image: url('borders/border_3.svg') 20% round;
 }
 
+.border-3{
+    border-image: url('borders/border_3.svg') 20% round;
+}
+
+.border-4{
+    border-image: url('borders/border_4.svg') 20% round;
+}
+
 .move {
 
     transform-origin: center;
