@@ -29,7 +29,11 @@
 }
 
 .border-2{
-    border-image: url('borders/border_1.svg') 20% round;
+    border-image: url('borders/border_2.svg') 20% round;
+}
+
+.border-3{
+    border-image: url('borders/border_3.svg') 20% round;
 }
 
 .move {
