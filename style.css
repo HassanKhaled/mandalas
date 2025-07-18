@@ -47,6 +47,10 @@
     border-image: url('borders/border_5.svg') 20% round;
 }
 
+.border-6{
+    border-image: url('borders/border_6.svg') 20% round;
+}
+
 .move {
 
     transform-origin: center;
