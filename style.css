@@ -43,6 +43,9 @@
 .border-4{
     border-image: url('borders/border_4.svg') 20% round;
 }
+.border-5{
+    border-image: url('borders/border_5.svg') 20% round;
+}
 
 .move {
 
