@@ -18,10 +18,15 @@
 
 }
 
-.border-1{
+.border {
 
     border: 100px solid transparent;
     padding: 20px;
+}
+
+.border-1{
+
+
     border-image: url('borders/border_3.svg') 20% round;
 }
 
