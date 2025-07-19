@@ -1,5 +1,7 @@
 
 :root {
+
+    --border-1 :'borders/border_1.svg',
     /* --blue: #1e90ff;
     --white: #ffffff; */
   }
@@ -33,7 +35,7 @@
 }
 
 .border-1{
-    border-image: url('borders/border_1.svg') 20% round;
+    border-image: var(--border-1) 20% round;
 }
 
 .border-2{
