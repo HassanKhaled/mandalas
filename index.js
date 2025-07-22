@@ -5,4 +5,6 @@
  let mands_count = 0;
 
  for(let i = 0 ; i < borders_count ; i++)
-    console.log(`borders_${i+1}.svg`);
+   borders[i]=`borders_${i+1}.svg`;
+
+ console.log(borders[2]);
