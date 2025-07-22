@@ -2,9 +2,10 @@
  let borders_count = 6;
 
  let mands = [];
- let mands_count = 0;
+ let mands_count = 9;
 
  for(let i = 0 ; i < borders_count ; i++)
    borders[i]=`borders_${i+1}.svg`;
 
- console.log(borders[2]);
+ for(let i = 0 ; i < mands_count ; i++)
+    mands[i]=`mand_${i+1}.svg`;
