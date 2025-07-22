@@ -5,4 +5,4 @@
  let mands_count = 0;
 
  for(let i = 0 ; i < borders_count ; i++)
-    console.log(i+1);
+    console.log(`borders_${i+1}.svg`);
