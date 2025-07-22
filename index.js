@@ -1,1 +1,2 @@
  let borders = [];
+ let mands = [];
