@@ -2,6 +2,15 @@
 :root {
 
     --border-1 :'borders/border_1.svg',
+    --border-2 :'borders/border_2.svg',
+    --border-3 :'borders/border_3.svg',
+    --border-4 :'borders/border_4.svg',
+    --border-5 :'borders/border_5.svg',
+    --border-6 :'borders/border_6.svg',
+    --border-7 :'borders/border_7.svg',
+    --border-8 :'borders/border_8.svg',
+    --border-9 :'borders/border_9.svg',
+    --border-10 :'borders/border_10.svg',
     /* --blue: #1e90ff;
     --white: #ffffff; */
   }
