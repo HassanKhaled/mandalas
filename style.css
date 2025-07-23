@@ -1,8 +1,8 @@
 
 :root {
 
-    --border-1 :'borders/border_1.svg',
-    --border-2 :'borders/border_2.svg',
+    --border-1 :"borders/border_1.svg",
+    --border-2 :"borders/border_2.svg",
     --border-3 :'borders/border_3.svg',
     --border-4 :'borders/border_4.svg',
     --border-5 :'borders/border_5.svg',
@@ -39,47 +39,47 @@
 .border {
 
     border: 100px solid transparent;
-    padding: 20px;
+  
 }
 
 .border-1{
-    border-image: var(--border-1) 20% round;
+    border-image: url( "borders/border_1.svg") 20% round;
 }
 
 .border-2{
-    border-image: var(--border-2)  20% round;
+    border-image:url( "borders/border_2.svg") 20% round;
 }
 
 .border-3{
-    border-image: var(--border-3)20% round;
+    border-image: url( "borders/border_3.svg") 20% round;
 }
 
 .border-4{
-    border-image: var(--border-4) 20% round;
+    border-image: url( "borders/border_4.svg") 20% round;
 }
 
 .border-5{
-    border-image: var(--border-5) 20% round;
+    border-image: url( "borders/border_5.svg") 20% round;
 }
 
 .border-6{
-    border-image: var(--border-6) 20% round;
+    border-image: url( "borders/border_6.svg") 20% round;
 }
 
 .border-7{
-    border-image: var(--border-7) 20% round;
+    border-image: url( "borders/border_7.svg") 20% round;
 }
 
 .border-8{
-    border-image: var(--border-8) 20% round;
+    border-image: url( "borders/border_8.svg") 20% round;
 }
 
 .border-9{
-    border-image: var(--border-9) 20% round;
+    border-image: url( "borders/border_9.svg") 20% round;
 }
 
 .border-10{
-    border-image: var(--border-10) 20% round;
+    border-image: url( "borders/border_10.svg") 20% round;
 }
 
 .move {
