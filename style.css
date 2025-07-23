@@ -11,8 +11,7 @@
     --border-8 :'borders/border_8.svg',
     --border-9 :'borders/border_9.svg',
     --border-10 :'borders/border_10.svg',
-    /* --blue: #1e90ff;
-    --white: #ffffff; */
+   
   }
 
 
@@ -48,26 +47,39 @@
 }
 
 .border-2{
-    border-image: url('borders/border_2.svg') 20% round;
+    border-image: var(--border-2)  20% round;
 }
 
 .border-3{
-    border-image: url('borders/border_3.svg') 20% round;
-}
-
-.border-3{
-    border-image: url('borders/border_3.svg') 20% round;
+    border-image: var(--border-3)20% round;
 }
 
 .border-4{
-    border-image: url('borders/border_4.svg') 20% round;
+    border-image: var(--border-4) 20% round;
 }
+
 .border-5{
-    border-image: url('borders/border_5.svg') 20% round;
+    border-image: var(--border-5) 20% round;
 }
 
 .border-6{
-    border-image: url('borders/border_6.svg') 20% round;
+    border-image: var(--border-6) 20% round;
+}
+
+.border-7{
+    border-image: var(--border-7) 20% round;
+}
+
+.border-8{
+    border-image: var(--border-8) 20% round;
+}
+
+.border-9{
+    border-image: var(--border-9) 20% round;
+}
+
+.border-10{
+    border-image: var(--border-10) 20% round;
 }
 
 .move {
