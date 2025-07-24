@@ -82,6 +82,10 @@
     border-image: url( "borders/border_10.svg") 20% round;
 }
 
+.border-11{
+    border-image: url( "borders/border_11.svg") 20% round;
+}
+
 .move {
 
     transform-origin: center;
