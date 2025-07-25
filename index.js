@@ -14,12 +14,13 @@ let bordered = document.getElementById('bordered');
 
   for(let x =6 ; x<mands_count;x++){
 
- 
-  img.src=`mands/mand_${x+1}.svg`;
+
+  img.src=`mands/mand_${x}.svg`;
 
   }
   img.classList.add(borders[i]);
-  img.classList.add('basic border');
+  img.classList.add('basic');
+  img.classList.add('border');
   bordered.appendChild(img);
  }
   
