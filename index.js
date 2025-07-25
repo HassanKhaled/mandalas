@@ -13,6 +13,10 @@ let animated = document.getElementById('animated');
   mands[i]=`mands/mand_${i+1}.svg`;
   let img = document.createElement('img');
   img.src=mands[i];
+  img.classList.add("basic");
+  let style = i%2==0 ? 'move' : 'move-reverse';
+  img.classList.add(style);
+
   animated.appendChild(img);
 
  }
