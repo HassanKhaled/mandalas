@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="border_12.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="4.8625"
+     inkscape:cx="56.658098"
+     inkscape:cy="59.948586"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       d="M 4.0195312 4.0195312 L 4.0195312 60 L 4.0195312 101.94727 L 7 105.06445 L 7 113.00195 L 14.587891 113.00195 L 17.435547 115.98047 L 60 115.98047 L 115.98047 115.98047 L 115.98047 60 L 115.98047 18.052734 L 113 14.935547 L 113 6.9980469 L 105.41211 6.9980469 L 102.56445 4.0195312 L 60 4.0195312 L 4.0195312 4.0195312 z M 5.3398438 5.3398438 L 60 5.3398438 L 101.99805 5.3398438 L 103.58398 6.9980469 L 60 6.9980469 L 7 6.9980469 L 7 60 L 7 103.15234 L 5.3398438 101.41602 L 5.3398438 60 L 5.3398438 5.3398438 z M 8.2519531 8.25 L 60 8.25 L 104.78125 8.25 L 111.74805 15.537109 L 111.74805 60 L 111.74805 111.75 L 60 111.75 L 15.21875 111.75 L 8.2519531 104.46289 L 8.2519531 60 L 8.2519531 8.25 z M 106.60938 8.25 L 111.74805 8.25 L 111.74805 13.625 L 106.60938 8.25 z M 113 16.847656 L 114.66016 18.583984 L 114.66016 60 L 114.66016 114.66016 L 60 114.66016 L 18.001953 114.66016 L 16.416016 113.00195 L 60 113.00195 L 113 113.00195 L 113 60 L 113 16.847656 z M 8.2519531 106.375 L 13.390625 111.75 L 8.2519531 111.75 L 8.2519531 106.375 z "
+       style="fill:#0000ff" />
+  </g>
+</svg>
