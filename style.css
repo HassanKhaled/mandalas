@@ -90,6 +90,13 @@
     border-image: url( "borders/border_12.svg") 20% round;
 }
 
+.border-13{
+    border-image: url( "borders/border_13.svg") 20% round;
+}
+.border-14{
+    border-image: url( "borders/border_14.svg") 20% round;
+}
+
 .move {
 
     transform-origin: center;
