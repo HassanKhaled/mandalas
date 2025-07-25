@@ -8,13 +8,24 @@ let animated = document.getElementById('animated');
 let bordered = document.getElementById('bordered');
 
  for(let i = 0 ; i < borders_count ; i++){
-  borders[i]=`borders/border_${i+1}.svg`;
-  
 
+  borders[i]=`border-${i+1}`;
+  let img = document.createElement('img');
+
+  for(let x =6 ; x<mands_count;x++){
+
+ 
+  img.src=`mands/mand_${x+1}.svg`;
+
+  }
+  img.classList.add(borders[i]);
+  img.classList.add('basic border');
+  bordered.appendChild(img);
  }
   
 
  for(let i = 1 ; i < mands_count ; i++){
+
   mands[i]=`mands/mand_${i+1}.svg`;
   let img = document.createElement('img');
   img.src=mands[i];
