@@ -96,6 +96,9 @@
 .border-14{
     border-image: url( "borders/border_14.svg") 20% round;
 }
+.border-15{
+    border-image: url( "borders/border_15.svg") 20% round;
+}
 
 .move {
 
