@@ -1,5 +1,5 @@
  let borders = [];
- let borders_count = 18;
+ let borders_count = 19;
 
  let mands = [];
  let mands_count = 9;
