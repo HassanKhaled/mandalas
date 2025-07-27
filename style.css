@@ -108,6 +108,11 @@
     border-image: url( "borders/border_17.svg") 20% round;
 }
 
+
+.border-18{
+    border-image: url( "borders/border_18.svg") 20% round;
+}
+
 .move {
 
     transform-origin: center;
