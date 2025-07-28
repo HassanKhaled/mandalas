@@ -118,6 +118,10 @@
     border-image: url( "borders/border_19.svg") 20% round;
 }
 
+.border-20{
+    border-image: url( "borders/border_20.svg") 20% round;
+}
+
 
 .move {
 
