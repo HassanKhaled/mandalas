@@ -121,6 +121,9 @@
 .border-20{
     border-image: url( "borders/border_20.svg") 20% round;
 }
+.border-21{
+    border-image: url( "borders/border_21.svg") 20% round;
+}
 
 
 .move {
