@@ -130,6 +130,10 @@
 }
 
 
+.border-23{
+    border-image: url( "borders/border_23.svg") 20% round;
+}
+
 .move {
 
     transform-origin: center;
