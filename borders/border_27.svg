@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="border_27.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="6.8766134"
+     inkscape:cx="59.985922"
+     inkscape:cy="46.025562"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="81.748047,20.082031"
+       end_point="81.748047,61.181641"
+       center_point="81.748047,40.631836"
+       id="path-effect102"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false"
+       link_styles="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect102"
+       d="M 5.2578125 5.2578125 L 5.2578125 95.369141 L 6.2578125 96.386719 L 6.2578125 6.2578125 L 92.507812 6.2578125 L 91.525391 5.2578125 L 5.2578125 5.2578125 z M 9.2167969 9.2167969 L 9.2167969 99.398438 L 10.144531 100.3418 L 10.144531 10.144531 L 96.328125 10.144531 L 95.416016 9.2167969 L 9.2167969 9.2167969 z M 109.85547 23.912109 L 109.85547 109.85547 L 19.492188 109.85547 L 20.404297 110.7832 L 110.7832 110.7832 L 110.7832 24.855469 L 109.85547 23.912109 z M 113.74023 27.865234 L 113.74023 113.74219 L 23.310547 113.74219 L 24.294922 114.74219 L 114.74023 114.74219 L 114.74023 28.882812 L 113.74023 27.865234 z "
+       style="stroke:#0000ff" />
+  </g>
+</svg>
