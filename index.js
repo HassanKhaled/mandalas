@@ -2,7 +2,7 @@
  let borders_count = 27;
 
  let mands = [];
- let mands_count = 40
+ let mands_count = 50
  ;
 
 let animated = document.getElementById('animated');
